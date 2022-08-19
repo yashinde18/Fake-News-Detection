@@ -1,0 +1,12 @@
+Project Structure
+The hands on project on NLP : Fake News Detector is divided into following tasks:
+
+Task #1: Understand the Problem Statement and business case 
+Task #2: Import libraries and datasets
+Task #3: Perform Exploratory Data Analysis
+Task #4: Perform Data Cleaning
+Task #5: Visualize the cleaned data
+Task #6: Prepare the data by tokenizing and padding
+Task #7: Understand the theory and intuition behind Recurrent Neural Networks and LSTM
+Task #8: Build and train the model
+Task #9: Assess trained model performance
